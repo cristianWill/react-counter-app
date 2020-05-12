@@ -1,6 +1,8 @@
 ### Primeiro App Usando React.
 Primeiro app utilizando React JS. Desenvolvido em um Crash Course do Youtube. Algo super simples mas com muito conceitos interessante sobre essa lib.
 
+<image src="images/PrintScreen.png" width="500"/>
+
 ## Desafios
 Acostumado com C#, VB.Net foi certamente muito diferente entender como todos os parametros são passados, como funciona a estrutura e acionamento de eventos, porém achei muito produtivo como tudo funciona.
 
